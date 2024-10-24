@@ -1,9 +1,14 @@
 <template>
-    <div>About page</div>
+    <div>
+        <div>About page</div>
+        <div></div>
+    </div>
 </template>
 
-<script>
-    
+<script setup>
+definePageMeta({
+    layout: 'home-layout'
+})
 </script>
 
 <style>
