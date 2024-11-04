@@ -1,7 +1,7 @@
 <template>
-    <div>id</div>
+    <user-card text="Some text"/>
 </template>
 
-<script>
+<script setup lang="ts">
 
 </script>
